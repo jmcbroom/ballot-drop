@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ballot-drop/static/css/main.c5de574e.chunk.css",
+    "main.js": "/ballot-drop/static/js/main.ab07420e.chunk.js",
+    "main.js.map": "/ballot-drop/static/js/main.ab07420e.chunk.js.map",
+    "runtime-main.js": "/ballot-drop/static/js/runtime-main.8c28dc66.js",
+    "runtime-main.js.map": "/ballot-drop/static/js/runtime-main.8c28dc66.js.map",
+    "static/css/2.793bd768.chunk.css": "/ballot-drop/static/css/2.793bd768.chunk.css",
+    "static/js/2.90670cee.chunk.js": "/ballot-drop/static/js/2.90670cee.chunk.js",
+    "static/js/2.90670cee.chunk.js.map": "/ballot-drop/static/js/2.90670cee.chunk.js.map",
+    "index.html": "/ballot-drop/index.html",
+    "precache-manifest.516dc12bb09d2a4d1f8059a9e7b2b3c5.js": "/ballot-drop/precache-manifest.516dc12bb09d2a4d1f8059a9e7b2b3c5.js",
+    "service-worker.js": "/ballot-drop/service-worker.js",
+    "static/css/2.793bd768.chunk.css.map": "/ballot-drop/static/css/2.793bd768.chunk.css.map",
+    "static/css/main.c5de574e.chunk.css.map": "/ballot-drop/static/css/main.c5de574e.chunk.css.map",
+    "static/js/2.90670cee.chunk.js.LICENSE.txt": "/ballot-drop/static/js/2.90670cee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c28dc66.js",
+    "static/css/2.793bd768.chunk.css",
+    "static/js/2.90670cee.chunk.js",
+    "static/css/main.c5de574e.chunk.css",
+    "static/js/main.ab07420e.chunk.js"
+  ]
+}
