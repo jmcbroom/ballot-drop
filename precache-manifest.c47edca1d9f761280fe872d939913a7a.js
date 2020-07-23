@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3e0bf7f4ceb24fb717ba7b7876bd2b3a",
+    "revision": "f74ae992de73b27d1320cb5a6a792741",
     "url": "/ballot-drop/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ballot-drop/static/css/2.acffd138.chunk.css"
   },
   {
-    "revision": "eecc938ac39cdf9f71f1",
+    "revision": "5e074dc402845db5a87d",
     "url": "/ballot-drop/static/css/main.69392c8b.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ballot-drop/static/js/2.825fb15a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "eecc938ac39cdf9f71f1",
-    "url": "/ballot-drop/static/js/main.d4a35f48.chunk.js"
+    "revision": "5e074dc402845db5a87d",
+    "url": "/ballot-drop/static/js/main.67477b49.chunk.js"
   },
   {
     "revision": "65e9dabb09943a82c73a",
