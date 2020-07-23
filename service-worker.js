@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ballot-drop/precache-manifest.c47edca1d9f761280fe872d939913a7a.js"
+  "/ballot-drop/precache-manifest.7fdcc7eb34caa6801a65c4cf88de377d.js"
 );
 
 self.addEventListener('message', (event) => {

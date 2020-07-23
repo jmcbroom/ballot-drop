@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ballot-drop/static/css/main.69392c8b.chunk.css",
-    "main.js": "/ballot-drop/static/js/main.67477b49.chunk.js",
-    "main.js.map": "/ballot-drop/static/js/main.67477b49.chunk.js.map",
+    "main.js": "/ballot-drop/static/js/main.d22bc82a.chunk.js",
+    "main.js.map": "/ballot-drop/static/js/main.d22bc82a.chunk.js.map",
     "runtime-main.js": "/ballot-drop/static/js/runtime-main.8c28dc66.js",
     "runtime-main.js.map": "/ballot-drop/static/js/runtime-main.8c28dc66.js.map",
     "static/css/2.acffd138.chunk.css": "/ballot-drop/static/css/2.acffd138.chunk.css",
     "static/js/2.825fb15a.chunk.js": "/ballot-drop/static/js/2.825fb15a.chunk.js",
     "static/js/2.825fb15a.chunk.js.map": "/ballot-drop/static/js/2.825fb15a.chunk.js.map",
     "index.html": "/ballot-drop/index.html",
-    "precache-manifest.c47edca1d9f761280fe872d939913a7a.js": "/ballot-drop/precache-manifest.c47edca1d9f761280fe872d939913a7a.js",
+    "precache-manifest.7fdcc7eb34caa6801a65c4cf88de377d.js": "/ballot-drop/precache-manifest.7fdcc7eb34caa6801a65c4cf88de377d.js",
     "service-worker.js": "/ballot-drop/service-worker.js",
     "static/css/2.acffd138.chunk.css.map": "/ballot-drop/static/css/2.acffd138.chunk.css.map",
     "static/css/main.69392c8b.chunk.css.map": "/ballot-drop/static/css/main.69392c8b.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.acffd138.chunk.css",
     "static/js/2.825fb15a.chunk.js",
     "static/css/main.69392c8b.chunk.css",
-    "static/js/main.67477b49.chunk.js"
+    "static/js/main.d22bc82a.chunk.js"
   ]
 }
